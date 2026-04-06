@@ -1,4 +1,4 @@
-# VCO 2
+# VCA 1
 
 ![Main board schematic](./images/VCA1.png)
 
