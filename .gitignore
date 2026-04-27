@@ -1,3 +1,5 @@
-VCO 2-backups/
+*-backups*
 *.lck
 .DS_Store
+.history/
+
