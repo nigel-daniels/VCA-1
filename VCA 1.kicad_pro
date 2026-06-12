@@ -668,7 +668,7 @@
         "uuid": "eb1652b6-57da-4a0e-88a4-449907a19840"
       }
     ],
-    "used_designators": "R25-26,Q1-2,D4-5,#PWR6,#PWR27-28,J16",
+    "used_designators": "TP4-7",
     "variants": []
   },
   "sheets": [
