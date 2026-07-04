@@ -533,7 +533,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "cnc/",
+      "plot": "fabrication/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
