@@ -8083,7 +8083,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "100K"
 			(at 232.41 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12259,7 +12259,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1μF c"
+		(property "Value" "0.1μF c"
 			(at 186.69 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13561,7 +13561,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1μF c"
+		(property "Value" "0.1μF c"
 			(at 184.15 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14309,7 +14309,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "100K"
 			(at 231.14 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
