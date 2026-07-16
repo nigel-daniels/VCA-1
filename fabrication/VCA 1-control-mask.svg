@@ -6,7 +6,7 @@
    viewBox="0 0 279.40001 215.9"
    id="svg217"
    sodipodi:docname="VCA 1-control-mask.svg"
-   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,7 +32,7 @@
      inkscape:window-width="1312"
      inkscape:window-height="846"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg217" />
   <title
@@ -42,978 +42,6 @@
   <g
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="g1" />
-  <g
-     id="g258"
-     transform="translate(15.578101,15.634826)">
-    <circle
-       cx="208.5022"
-       cy="87.381203"
-       r="0.90880001"
-       id="circle28"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4722"
-       cy="129.25121"
-       r="0.90880001"
-       id="circle29"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="205.6122"
-       cy="94.861198"
-       r="0.90880001"
-       id="circle30"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="205.5822"
-       cy="83.151199"
-       r="0.90880001"
-       id="circle31"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="201.3522"
-       cy="40.291199"
-       r="0.90880001"
-       id="circle32"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="198.09219"
-       cy="59.451199"
-       r="0.90880001"
-       id="circle33"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="195.6322"
-       cy="63.431198"
-       r="0.90880001"
-       id="circle34"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="194.18221"
-       cy="51.801201"
-       r="0.90880001"
-       id="circle35"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="193.8022"
-       cy="94.211197"
-       r="0.90880001"
-       id="circle36"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="193.7222"
-       cy="117.0312"
-       r="0.90880001"
-       id="circle37"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="193.68221"
-       cy="126.3412"
-       r="0.90880001"
-       id="circle38"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="192.8522"
-       cy="84.141197"
-       r="0.90880001"
-       id="circle39"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="174.8022"
-       cy="87.451202"
-       r="0.90880001"
-       id="circle40"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="168.6422"
-       cy="84.0812"
-       r="0.90880001"
-       id="circle41"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 170.3072,43.985 v 1.83 h 1.93 v -1.83 z"
-       id="path49" />
-    <circle
-       cx="171.2722"
-       cy="56.299999"
-       r="1.0650001"
-       id="circle50"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="171.2722"
-       cy="48"
-       r="1.0650001"
-       id="circle51"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="165.8922"
-       cy="137.41"
-       r="1.35"
-       id="circle55"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 194.6922,101.84 v -1.8 h -1.8 v 1.8 z"
-       id="path69" />
-    <circle
-       cx="193.79221"
-       cy="103.44"
-       r="0.89999998"
-       id="circle70"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="193.79221"
-       cy="105.94"
-       r="0.89999998"
-       id="circle71"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 187.2922,97.69 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path71" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 187.2922,107.19 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path72" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 209.7622,101.8 V 100 h -1.8 v 1.8 z"
-       id="path105" />
-    <circle
-       cx="208.8622"
-       cy="103.4"
-       r="0.89999998"
-       id="circle106"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.8622"
-       cy="105.9"
-       r="0.89999998"
-       id="circle107"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 202.3622,97.65 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path107" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 202.3622,107.15 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path108" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 185.3572,43.985 v 1.83 h 1.93 v -1.83 z"
-       id="path109" />
-    <circle
-       cx="186.3222"
-       cy="56.299999"
-       r="1.0650001"
-       id="circle109"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="186.3222"
-       cy="48"
-       r="1.0650001"
-       id="circle110"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="165.8922"
-       cy="37.23"
-       r="1.35"
-       id="circle112"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="206.73219"
-       cy="37.209999"
-       r="1.35"
-       id="circle113"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 200.3672,115.895 v 1.83 h 1.93 v -1.83 z"
-       id="path115" />
-    <circle
-       cx="201.3322"
-       cy="128.21001"
-       r="1.0650001"
-       id="circle116"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="201.3322"
-       cy="119.91"
-       r="1.0650001"
-       id="circle117"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 200.2872,43.975 v 1.83 h 1.93 v -1.83 z"
-       id="path121" />
-    <circle
-       cx="201.2522"
-       cy="56.290001"
-       r="1.0650001"
-       id="circle122"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="201.2522"
-       cy="47.990002"
-       r="1.0650001"
-       id="circle123"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 179.6472,69.67 v -1.8 h -1.8 v 1.8 z"
-       id="path138" />
-    <circle
-       cx="178.74719"
-       cy="71.269997"
-       r="0.89999998"
-       id="circle139"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="178.74719"
-       cy="73.769997"
-       r="0.89999998"
-       id="circle140"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 172.2472,65.52 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path140" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 172.2472,75.02 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path141" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 185.3472,115.905 v 1.83 h 1.93 v -1.83 z"
-       id="path145" />
-    <circle
-       cx="186.31219"
-       cy="128.22"
-       r="1.0650001"
-       id="circle146"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="186.31219"
-       cy="119.92"
-       r="1.0650001"
-       id="circle147"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 179.5922,101.83 v -1.8 h -1.8 v 1.8 z"
-       id="path151" />
-    <circle
-       cx="178.6922"
-       cy="103.43"
-       r="0.89999998"
-       id="circle152"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="178.6922"
-       cy="105.93"
-       r="0.89999998"
-       id="circle153"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 172.1922,97.68 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path153" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 172.1922,107.18 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path154" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 188.5122,38.21 v -1.8 h -1.8 v 1.8 z"
-       id="path162" />
-    <circle
-       cx="185.0722"
-       cy="37.310001"
-       r="0.89999998"
-       id="circle163"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 209.6922,69.66 v -1.8 h -1.8 v 1.8 z"
-       id="path166" />
-    <circle
-       cx="208.79221"
-       cy="71.260002"
-       r="0.89999998"
-       id="circle167"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.79221"
-       cy="73.760002"
-       r="0.89999998"
-       id="circle168"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 202.2922,65.51 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path168" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 202.2922,75.01 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path169" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 194.6822,69.67 v -1.8 h -1.8 v 1.8 z"
-       id="path170" />
-    <circle
-       cx="193.7822"
-       cy="71.269997"
-       r="0.89999998"
-       id="circle171"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="193.7822"
-       cy="73.769997"
-       r="0.89999998"
-       id="circle172"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 187.2822,65.52 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path172" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 187.2822,75.02 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
-       id="path173" />
-    <circle
-       cx="206.73219"
-       cy="137.41"
-       r="1.35"
-       id="circle177"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 170.2772,115.905 v 1.83 h 1.93 v -1.83 z"
-       id="path177" />
-    <circle
-       cx="171.2422"
-       cy="128.22"
-       r="1.0650001"
-       id="circle178"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="171.2422"
-       cy="119.92"
-       r="1.0650001"
-       id="circle179"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 188.5522,138.28 v -1.8 h -1.8 v 1.8 z"
-       id="path216" />
-    <circle
-       cx="185.1122"
-       cy="137.38"
-       r="0.89999998"
-       id="circle217"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 207.6422,42.43 v 1.7 h 1.7 v -1.7 z"
-       id="path219" />
-    <circle
-       cx="208.4922"
-       cy="45.82"
-       r="0.85000002"
-       id="circle220"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4922"
-       cy="48.360001"
-       r="0.85000002"
-       id="circle221"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4922"
-       cy="50.900002"
-       r="0.85000002"
-       id="circle222"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4922"
-       cy="53.439999"
-       r="0.85000002"
-       id="circle223"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4922"
-       cy="55.98"
-       r="0.85000002"
-       id="circle224"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4922"
-       cy="58.52"
-       r="0.85000002"
-       id="circle225"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.4922"
-       cy="61.060001"
-       r="0.85000002"
-       id="circle226"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 207.6322,119.11 v 1.7 h 1.7 v -1.7 z"
-       id="path242" />
-    <circle
-       cx="208.48219"
-       cy="122.5"
-       r="0.85000002"
-       id="circle243"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="208.48219"
-       cy="125.04"
-       r="0.85000002"
-       id="circle244"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 163.2022,75.61 v 1.7 h 1.7 v -1.7 z"
-       id="path244" />
-    <circle
-       cx="164.0522"
-       cy="79"
-       r="0.85000002"
-       id="circle245"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="81.540001"
-       r="0.85000002"
-       id="circle246"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="84.080002"
-       r="0.85000002"
-       id="circle247"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="86.620003"
-       r="0.85000002"
-       id="circle248"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="89.160004"
-       r="0.85000002"
-       id="circle249"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="91.699997"
-       r="0.85000002"
-       id="circle250"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="94.239998"
-       r="0.85000002"
-       id="circle251"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="164.0522"
-       cy="96.779999"
-       r="0.85000002"
-       id="circle252"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-  </g>
-  <g
-     id="g259"
-     transform="translate(-37.072155,16.154283)">
-    <circle
-       cx="88.489998"
-       cy="87.389999"
-       r="0.89999998"
-       id="circle28-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.519997"
-       cy="129.25999"
-       r="0.89999998"
-       id="circle29-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="91.389999"
-       cy="94.860001"
-       r="0.89999998"
-       id="circle30-0"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="91.419998"
-       cy="83.169998"
-       r="0.89999998"
-       id="circle31-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="95.650002"
-       cy="40.299999"
-       r="0.89999998"
-       id="circle32-2"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="98.900002"
-       cy="59.459999"
-       r="0.89999998"
-       id="circle33-2"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="101.35"
-       cy="63.450001"
-       r="0.89999998"
-       id="circle34-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="102.8"
-       cy="51.84"
-       r="0.89999998"
-       id="circle35-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="103.19"
-       cy="94.220001"
-       r="0.89999998"
-       id="circle36-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="103.28"
-       cy="117.04"
-       r="0.89999998"
-       id="circle37-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="103.29"
-       cy="126.35"
-       r="0.89999998"
-       id="circle38-0"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="104.13"
-       cy="84.150002"
-       r="0.89999998"
-       id="circle39-2"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="122.18"
-       cy="87.459999"
-       r="0.89999998"
-       id="circle40-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="128.35001"
-       cy="84.089996"
-       r="0.89999998"
-       id="circle41-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 126.695,43.985 v 1.83 h -1.93 v -1.83 z"
-       id="path49-9" />
-    <circle
-       cx="125.73"
-       cy="56.299999"
-       r="1.0650001"
-       id="circle50-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="125.73"
-       cy="48"
-       r="1.0650001"
-       id="circle51-0"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="131.11"
-       cy="137.41"
-       r="1.35"
-       id="circle55-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 102.31,101.84 v -1.8 h 1.8 v 1.8 z"
-       id="path69-9" />
-    <circle
-       cx="103.21"
-       cy="103.44"
-       r="0.89999998"
-       id="circle70-8"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="103.21"
-       cy="105.94"
-       r="0.89999998"
-       id="circle71-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 109.71,97.69 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 109.71,99.69 Z"
-       id="path71-5" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 109.71,107.19 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
-       id="path72-7" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 87.24,101.8 V 100 h 1.8 v 1.8 z"
-       id="path105-6" />
-    <circle
-       cx="88.139999"
-       cy="103.4"
-       r="0.89999998"
-       id="circle106-2"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.139999"
-       cy="105.9"
-       r="0.89999998"
-       id="circle107-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 94.64,97.65 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 L 95.14,97.15 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 L 94.6514,99.7563 94.64,99.65 Z"
-       id="path107-0" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 94.64,107.15 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 94.64,109.15 Z"
-       id="path108-3" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 111.645,43.985 v 1.83 h -1.93 v -1.83 z"
-       id="path109-9" />
-    <circle
-       cx="110.68"
-       cy="56.299999"
-       r="1.0650001"
-       id="circle109-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="110.68"
-       cy="48"
-       r="1.0650001"
-       id="circle110-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="131.11"
-       cy="37.23"
-       r="1.35"
-       id="circle112-1"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="90.269997"
-       cy="37.209999"
-       r="1.35"
-       id="circle113-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 96.635,115.895 v 1.83 h -1.93 v -1.83 z"
-       id="path115-2" />
-    <circle
-       cx="95.669998"
-       cy="128.21001"
-       r="1.0650001"
-       id="circle116-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="95.669998"
-       cy="119.91"
-       r="1.0650001"
-       id="circle117-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 96.715,43.975 v 1.83 h -1.93 v -1.83 z"
-       id="path121-5" />
-    <circle
-       cx="95.75"
-       cy="56.290001"
-       r="1.0650001"
-       id="circle122-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="95.75"
-       cy="47.990002"
-       r="1.0650001"
-       id="circle123-8"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 117.355,69.67 v -1.8 h 1.8 v 1.8 z"
-       id="path138-1" />
-    <circle
-       cx="118.255"
-       cy="71.269997"
-       r="0.89999998"
-       id="circle139-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="118.255"
-       cy="73.769997"
-       r="0.89999998"
-       id="circle140-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 124.755,65.52 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
-       id="path140-1" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 124.755,75.02 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
-       id="path141-3" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 111.655,115.905 v 1.83 h -1.93 v -1.83 z"
-       id="path145-8" />
-    <circle
-       cx="110.69"
-       cy="128.22"
-       r="1.0650001"
-       id="circle146-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="110.69"
-       cy="119.92"
-       r="1.0650001"
-       id="circle147-8"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 117.41,101.83 v -1.8 h 1.8 v 1.8 z"
-       id="path151-0" />
-    <circle
-       cx="118.31"
-       cy="103.43"
-       r="0.89999998"
-       id="circle152-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="118.31"
-       cy="105.93"
-       r="0.89999998"
-       id="circle153-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 124.81,97.68 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 124.81,99.68 Z"
-       id="path153-0" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 124.81,107.18 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
-       id="path154-3" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 108.49,38.21 v -1.8 h 1.8 v 1.8 z"
-       id="path162-2" />
-    <circle
-       cx="111.93"
-       cy="37.310001"
-       r="0.89999998"
-       id="circle163-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 87.31,69.66 v -1.8 h 1.8 v 1.8 z"
-       id="path166-9" />
-    <circle
-       cx="88.209999"
-       cy="71.260002"
-       r="0.89999998"
-       id="circle167-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.209999"
-       cy="73.760002"
-       r="0.89999998"
-       id="circle168-1"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 94.71,65.51 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 L 95.21,65.01 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 L 96.21,68.01 h -1 L 95.1037,67.9986 94.9704,67.9488 94.8564,67.8636 94.7712,67.7496 94.7214,67.6163 94.71,67.51 Z"
-       id="path168-3" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 94.71,75.01 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 L 95.21,74.51 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 L 96.21,77.51 h -1 L 95.1037,77.4986 94.9704,77.4488 94.8564,77.3636 94.7712,77.2496 94.7214,77.1163 94.71,77.01 Z"
-       id="path169-7" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 102.32,69.67 v -1.8 h 1.8 v 1.8 z"
-       id="path170-8" />
-    <circle
-       cx="103.22"
-       cy="71.269997"
-       r="0.89999998"
-       id="circle171-8"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="103.22"
-       cy="73.769997"
-       r="0.89999998"
-       id="circle172-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 109.72,65.52 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 109.72,67.52 Z"
-       id="path172-8" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 109.72,75.02 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 109.72,77.02 Z"
-       id="path173-1" />
-    <circle
-       cx="90.269997"
-       cy="137.41"
-       r="1.35"
-       id="circle177-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 126.725,115.905 v 1.83 h -1.93 v -1.83 z"
-       id="path177-3" />
-    <circle
-       cx="125.76"
-       cy="128.22"
-       r="1.0650001"
-       id="circle178-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="125.76"
-       cy="119.92"
-       r="1.0650001"
-       id="circle179-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 108.45,138.28 v -1.8 h 1.8 v 1.8 z"
-       id="path216-3" />
-    <circle
-       cx="111.89"
-       cy="137.38"
-       r="0.89999998"
-       id="circle217-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 89.36,42.43 v 1.7 h -1.7 v -1.7 z"
-       id="path219-5" />
-    <circle
-       cx="88.510002"
-       cy="45.82"
-       r="0.85000002"
-       id="circle220-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.510002"
-       cy="48.360001"
-       r="0.85000002"
-       id="circle221-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.510002"
-       cy="50.900002"
-       r="0.85000002"
-       id="circle222-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.510002"
-       cy="53.439999"
-       r="0.85000002"
-       id="circle223-9"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.510002"
-       cy="55.98"
-       r="0.85000002"
-       id="circle224-1"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.510002"
-       cy="58.52"
-       r="0.85000002"
-       id="circle225-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.510002"
-       cy="61.060001"
-       r="0.85000002"
-       id="circle226-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 89.37,119.11 v 1.7 h -1.7 v -1.7 z"
-       id="path242-5" />
-    <circle
-       cx="88.519997"
-       cy="122.5"
-       r="0.85000002"
-       id="circle243-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="88.519997"
-       cy="125.04"
-       r="0.85000002"
-       id="circle244-1"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 133.8,75.61 v 1.7 h -1.7 v -1.7 z"
-       id="path244-8" />
-    <circle
-       cx="132.95"
-       cy="79"
-       r="0.85000002"
-       id="circle245-8"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="81.540001"
-       r="0.85000002"
-       id="circle246-3"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="84.080002"
-       r="0.85000002"
-       id="circle247-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="86.620003"
-       r="0.85000002"
-       id="circle248-2"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="89.160004"
-       r="0.85000002"
-       id="circle249-2"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="91.699997"
-       r="0.85000002"
-       id="circle250-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="94.239998"
-       r="0.85000002"
-       id="circle251-6"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <circle
-       cx="132.95"
-       cy="96.779999"
-       r="0.85000002"
-       id="circle252-7"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-  </g>
   <metadata
      id="metadata1">
     <rdf:RDF>
@@ -1023,4 +51,1072 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     id="g272"
+     transform="translate(-48.145697,13.501562)">
+    <circle
+       cx="111.44"
+       cy="92.529999"
+       r="0.89999998"
+       id="circle1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="130.24001"
+       cy="60.827599"
+       r="0.89999998"
+       id="circle2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.519997"
+       cy="129.25999"
+       r="0.89999998"
+       id="circle36"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="93.07"
+       cy="94.599998"
+       r="0.89999998"
+       id="circle37"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="93.063301"
+       cy="80.998802"
+       r="0.89999998"
+       id="circle38"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="94.220001"
+       cy="132.2188"
+       r="0.89999998"
+       id="circle39"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="91.93"
+       cy="63.259998"
+       r="0.89999998"
+       id="circle40"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="94.970001"
+       cy="61.869999"
+       r="0.89999998"
+       id="circle41"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="95.650002"
+       cy="40.299999"
+       r="0.89999998"
+       id="circle42"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="98.160004"
+       cy="61.209999"
+       r="0.89999998"
+       id="circle43"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="103.19"
+       cy="94.220001"
+       r="0.89999998"
+       id="circle44"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="104.3676"
+       cy="114.6243"
+       r="0.89999998"
+       id="circle45"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="103.29"
+       cy="126.35"
+       r="0.89999998"
+       id="circle46"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="104.75"
+       cy="84.108803"
+       r="0.89999998"
+       id="circle47"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="104.23"
+       cy="58.43"
+       r="0.89999998"
+       id="circle48"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="104.39"
+       cy="49.02"
+       r="0.89999998"
+       id="circle49"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="104.47"
+       cy="55.240002"
+       r="0.89999998"
+       id="circle50"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="129.14"
+       cy="79.050003"
+       r="0.89999998"
+       id="circle51"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="129.17"
+       cy="86.618797"
+       r="0.89999998"
+       id="circle52"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="129.2"
+       cy="81.550003"
+       r="0.89999998"
+       id="circle53"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="129.28"
+       cy="89.139999"
+       r="0.89999998"
+       id="circle54"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.94"
+       cy="72.610001"
+       r="0.89999998"
+       id="circle55"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 126.695,43.985 v 1.83 h -1.93 v -1.83 z"
+       id="path63" />
+    <circle
+       cx="125.73"
+       cy="56.299999"
+       r="1.0650001"
+       id="circle64"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="125.73"
+       cy="48"
+       r="1.0650001"
+       id="circle65"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="131.11"
+       cy="137.41"
+       r="1.35"
+       id="circle69"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 102.31,101.84 v -1.8 h 1.8 v 1.8 z"
+       id="path83" />
+    <circle
+       cx="103.21"
+       cy="103.44"
+       r="0.89999998"
+       id="circle84"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="103.21"
+       cy="105.94"
+       r="0.89999998"
+       id="circle85"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 109.71,97.69 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 109.71,99.69 Z"
+       id="path85" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 109.71,107.19 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
+       id="path86" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 87.24,101.8 V 100 h 1.8 v 1.8 z"
+       id="path119" />
+    <circle
+       cx="88.139999"
+       cy="103.4"
+       r="0.89999998"
+       id="circle120"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.139999"
+       cy="105.9"
+       r="0.89999998"
+       id="circle121"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 94.64,97.65 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 L 95.14,97.15 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 L 94.6514,99.7563 94.64,99.65 Z"
+       id="path121" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 94.64,107.15 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 94.64,109.15 Z"
+       id="path122" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 111.645,43.985 v 1.83 h -1.93 v -1.83 z"
+       id="path123" />
+    <circle
+       cx="110.68"
+       cy="56.299999"
+       r="1.0650001"
+       id="circle123"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="110.68"
+       cy="48"
+       r="1.0650001"
+       id="circle124"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="131.11"
+       cy="37.23"
+       r="1.35"
+       id="circle126"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="90.269997"
+       cy="37.209999"
+       r="1.35"
+       id="circle127"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 96.635,115.895 v 1.83 h -1.93 v -1.83 z"
+       id="path129" />
+    <circle
+       cx="95.669998"
+       cy="128.21001"
+       r="1.0650001"
+       id="circle130"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="95.669998"
+       cy="119.91"
+       r="1.0650001"
+       id="circle131"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 96.715,43.975 v 1.83 h -1.93 v -1.83 z"
+       id="path135" />
+    <circle
+       cx="95.75"
+       cy="56.290001"
+       r="1.0650001"
+       id="circle136"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="95.75"
+       cy="47.990002"
+       r="1.0650001"
+       id="circle137"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 117.355,69.67 v -1.8 h 1.8 v 1.8 z"
+       id="path152" />
+    <circle
+       cx="118.255"
+       cy="71.269997"
+       r="0.89999998"
+       id="circle153"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="118.255"
+       cy="73.769997"
+       r="0.89999998"
+       id="circle154"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 124.755,65.52 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
+       id="path154" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 124.755,75.02 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
+       id="path155" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 111.655,115.905 v 1.83 h -1.93 v -1.83 z"
+       id="path159" />
+    <circle
+       cx="110.69"
+       cy="128.22"
+       r="1.0650001"
+       id="circle160"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="110.69"
+       cy="119.92"
+       r="1.0650001"
+       id="circle161"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 117.41,101.83 v -1.8 h 1.8 v 1.8 z"
+       id="path165" />
+    <circle
+       cx="118.31"
+       cy="103.43"
+       r="0.89999998"
+       id="circle166"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="118.31"
+       cy="105.93"
+       r="0.89999998"
+       id="circle167"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 124.81,97.68 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 124.81,99.68 Z"
+       id="path167" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 124.81,107.18 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 -0.0114,-0.1063 z"
+       id="path168" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 108.49,38.21 v -1.8 h 1.8 v 1.8 z"
+       id="path176" />
+    <circle
+       cx="111.93"
+       cy="37.310001"
+       r="0.89999998"
+       id="circle177"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 87.31,69.66 v -1.8 h 1.8 v 1.8 z"
+       id="path180" />
+    <circle
+       cx="88.209999"
+       cy="71.260002"
+       r="0.89999998"
+       id="circle181"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.209999"
+       cy="73.760002"
+       r="0.89999998"
+       id="circle182"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 94.71,65.51 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 L 95.21,65.01 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 L 96.21,68.01 h -1 L 95.1037,67.9986 94.9704,67.9488 94.8564,67.8636 94.7712,67.7496 94.7214,67.6163 94.71,67.51 Z"
+       id="path182" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 94.71,75.01 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 L 95.21,74.51 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 L 96.21,77.51 h -1 L 95.1037,77.4986 94.9704,77.4488 94.8564,77.3636 94.7712,77.2496 94.7214,77.1163 94.71,77.01 Z"
+       id="path183" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 102.32,69.67 v -1.8 h 1.8 v 1.8 z"
+       id="path184" />
+    <circle
+       cx="103.22"
+       cy="71.269997"
+       r="0.89999998"
+       id="circle185"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="103.22"
+       cy="73.769997"
+       r="0.89999998"
+       id="circle186"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 109.72,65.52 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 109.72,67.52 Z"
+       id="path186" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 109.72,75.02 0.0114,-0.1063 0.0498,-0.1333 0.0852,-0.114 0.114,-0.0852 0.1333,-0.0498 0.1063,-0.0114 h 1 l 0.1063,0.0114 0.1333,0.0498 0.114,0.0852 0.0852,0.114 0.0498,0.1333 0.0114,0.1063 v 2 l -0.0114,0.1063 -0.0498,0.1333 -0.0852,0.114 -0.114,0.0852 -0.1333,0.0498 -0.1063,0.0114 h -1 l -0.1063,-0.0114 -0.1333,-0.0498 -0.114,-0.0852 -0.0852,-0.114 -0.0498,-0.1333 L 109.72,77.02 Z"
+       id="path187" />
+    <circle
+       cx="90.269997"
+       cy="137.41"
+       r="1.35"
+       id="circle191"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 126.725,115.905 v 1.83 h -1.93 v -1.83 z"
+       id="path191" />
+    <circle
+       cx="125.76"
+       cy="128.22"
+       r="1.0650001"
+       id="circle192"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="125.76"
+       cy="119.92"
+       r="1.0650001"
+       id="circle193"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 108.45,138.28 v -1.8 h 1.8 v 1.8 z"
+       id="path230" />
+    <circle
+       cx="111.89"
+       cy="137.38"
+       r="0.89999998"
+       id="circle231"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 89.36,42.43 v 1.7 h -1.7 v -1.7 z"
+       id="path233" />
+    <circle
+       cx="88.510002"
+       cy="45.82"
+       r="0.85000002"
+       id="circle234"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.510002"
+       cy="48.360001"
+       r="0.85000002"
+       id="circle235"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.510002"
+       cy="50.900002"
+       r="0.85000002"
+       id="circle236"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.510002"
+       cy="53.439999"
+       r="0.85000002"
+       id="circle237"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.510002"
+       cy="55.98"
+       r="0.85000002"
+       id="circle238"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.510002"
+       cy="58.52"
+       r="0.85000002"
+       id="circle239"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.510002"
+       cy="61.060001"
+       r="0.85000002"
+       id="circle240"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 89.37,119.11 v 1.7 h -1.7 v -1.7 z"
+       id="path256" />
+    <circle
+       cx="88.519997"
+       cy="122.5"
+       r="0.85000002"
+       id="circle257"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="88.519997"
+       cy="125.04"
+       r="0.85000002"
+       id="circle258"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 133.8,75.61 v 1.7 h -1.7 v -1.7 z"
+       id="path258" />
+    <circle
+       cx="132.95"
+       cy="79"
+       r="0.85000002"
+       id="circle259"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="81.540001"
+       r="0.85000002"
+       id="circle260"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="84.080002"
+       r="0.85000002"
+       id="circle261"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="86.620003"
+       r="0.85000002"
+       id="circle262"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="89.160004"
+       r="0.85000002"
+       id="circle263"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="91.699997"
+       r="0.85000002"
+       id="circle264"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="94.239998"
+       r="0.85000002"
+       id="circle265"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="132.95"
+       cy="96.779999"
+       r="0.85000002"
+       id="circle266"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="g272-2"
+     transform="translate(-19.477195,12.48919)">
+    <circle
+       cx="185.54221"
+       cy="92.521202"
+       r="0.90880001"
+       id="circle1-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="166.7522"
+       cy="60.818802"
+       r="0.90880001"
+       id="circle2-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4722"
+       cy="129.25121"
+       r="0.90880001"
+       id="circle36-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="203.93221"
+       cy="94.601196"
+       r="0.90880001"
+       id="circle37-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="203.9389"
+       cy="80.980003"
+       r="0.90880001"
+       id="circle38-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="202.7722"
+       cy="132.21001"
+       r="0.90880001"
+       id="circle39-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="205.0522"
+       cy="63.259998"
+       r="0.90880001"
+       id="circle40-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="202.01221"
+       cy="61.869999"
+       r="0.90880001"
+       id="circle41-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="201.3522"
+       cy="40.291199"
+       r="0.90880001"
+       id="circle42-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="198.8222"
+       cy="61.209999"
+       r="0.90880001"
+       id="circle43-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="193.8022"
+       cy="94.211197"
+       r="0.90880001"
+       id="circle44-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="192.6346"
+       cy="114.6155"
+       r="0.90880001"
+       id="circle45-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="193.68221"
+       cy="126.3412"
+       r="0.90880001"
+       id="circle46-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="192.23219"
+       cy="84.099998"
+       r="0.90880001"
+       id="circle47-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="192.7522"
+       cy="58.43"
+       r="0.90880001"
+       id="circle48-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="192.6122"
+       cy="48.970001"
+       r="0.90880001"
+       id="circle49-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="192.51221"
+       cy="55.240002"
+       r="0.90880001"
+       id="circle50-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="167.84219"
+       cy="79.041199"
+       r="0.90880001"
+       id="circle51-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="167.81219"
+       cy="86.610001"
+       r="0.90880001"
+       id="circle52-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="167.7822"
+       cy="81.541199"
+       r="0.90880001"
+       id="circle53-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="167.70219"
+       cy="89.131203"
+       r="0.90880001"
+       id="circle54-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.04221"
+       cy="72.601196"
+       r="0.90880001"
+       id="circle55-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 170.3072,43.985 v 1.83 h 1.93 v -1.83 z"
+       id="path63-6" />
+    <circle
+       cx="171.2722"
+       cy="56.299999"
+       r="1.0650001"
+       id="circle64-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="171.2722"
+       cy="48"
+       r="1.0650001"
+       id="circle65-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="165.8922"
+       cy="137.41"
+       r="1.35"
+       id="circle69-6"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 194.6922,101.84 v -1.8 h -1.8 v 1.8 z"
+       id="path83-2" />
+    <circle
+       cx="193.79221"
+       cy="103.44"
+       r="0.89999998"
+       id="circle84-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="193.79221"
+       cy="105.94"
+       r="0.89999998"
+       id="circle85-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 187.2922,97.69 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path85-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 187.2922,107.19 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path86-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 209.7622,101.8 V 100 h -1.8 v 1.8 z"
+       id="path119-9" />
+    <circle
+       cx="208.8622"
+       cy="103.4"
+       r="0.89999998"
+       id="circle120-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.8622"
+       cy="105.9"
+       r="0.89999998"
+       id="circle121-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 202.3622,97.65 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path121-7" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 202.3622,107.15 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path122-2" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 185.3572,43.985 v 1.83 h 1.93 v -1.83 z"
+       id="path123-3" />
+    <circle
+       cx="186.3222"
+       cy="56.299999"
+       r="1.0650001"
+       id="circle123-6"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="186.3222"
+       cy="48"
+       r="1.0650001"
+       id="circle124-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="165.8922"
+       cy="37.23"
+       r="1.35"
+       id="circle126-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="206.73219"
+       cy="37.209999"
+       r="1.35"
+       id="circle127-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 200.3672,115.895 v 1.83 h 1.93 v -1.83 z"
+       id="path129-1" />
+    <circle
+       cx="201.3322"
+       cy="128.21001"
+       r="1.0650001"
+       id="circle130-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="201.3322"
+       cy="119.91"
+       r="1.0650001"
+       id="circle131-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 200.2872,43.975 v 1.83 h 1.93 v -1.83 z"
+       id="path135-1" />
+    <circle
+       cx="201.2522"
+       cy="56.290001"
+       r="1.0650001"
+       id="circle136-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="201.2522"
+       cy="47.990002"
+       r="1.0650001"
+       id="circle137-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 179.6472,69.67 v -1.8 h -1.8 v 1.8 z"
+       id="path152-4" />
+    <circle
+       cx="178.74719"
+       cy="71.269997"
+       r="0.89999998"
+       id="circle153-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="178.74719"
+       cy="73.769997"
+       r="0.89999998"
+       id="circle154-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 172.2472,65.52 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path154-4" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 172.2472,75.02 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path155-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 185.3472,115.905 v 1.83 h 1.93 v -1.83 z"
+       id="path159-0" />
+    <circle
+       cx="186.31219"
+       cy="128.22"
+       r="1.0650001"
+       id="circle160-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="186.31219"
+       cy="119.92"
+       r="1.0650001"
+       id="circle161-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 179.5922,101.83 v -1.8 h -1.8 v 1.8 z"
+       id="path165-6" />
+    <circle
+       cx="178.6922"
+       cy="103.43"
+       r="0.89999998"
+       id="circle166-9"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="178.6922"
+       cy="105.93"
+       r="0.89999998"
+       id="circle167-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 172.1922,97.68 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path167-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 172.1922,107.18 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path168-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 188.5122,38.21 v -1.8 h -1.8 v 1.8 z"
+       id="path176-7" />
+    <circle
+       cx="185.0722"
+       cy="37.310001"
+       r="0.89999998"
+       id="circle177-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 209.6922,69.66 v -1.8 h -1.8 v 1.8 z"
+       id="path180-8" />
+    <circle
+       cx="208.79221"
+       cy="71.260002"
+       r="0.89999998"
+       id="circle181-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.79221"
+       cy="73.760002"
+       r="0.89999998"
+       id="circle182-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 202.2922,65.51 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path182-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 202.2922,75.01 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path183-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 194.6822,69.67 v -1.8 h -1.8 v 1.8 z"
+       id="path184-3" />
+    <circle
+       cx="193.7822"
+       cy="71.269997"
+       r="0.89999998"
+       id="circle185-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="193.7822"
+       cy="73.769997"
+       r="0.89999998"
+       id="circle186-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 187.2822,65.52 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path186-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 187.2822,75.02 -0.0114,-0.1063 -0.0498,-0.1333 -0.0852,-0.114 -0.114,-0.0852 -0.1333,-0.0498 -0.1063,-0.0114 h -1 l -0.1063,0.0114 -0.1333,0.0498 -0.114,0.0852 -0.0852,0.114 -0.0498,0.1333 -0.0114,0.1063 v 2 l 0.0114,0.1063 0.0498,0.1333 0.0852,0.114 0.114,0.0852 0.1333,0.0498 0.1063,0.0114 h 1 l 0.1063,-0.0114 0.1333,-0.0498 0.114,-0.0852 0.0852,-0.114 0.0498,-0.1333 0.0114,-0.1063 z"
+       id="path187-6" />
+    <circle
+       cx="206.73219"
+       cy="137.41"
+       r="1.35"
+       id="circle191-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 170.2772,115.905 v 1.83 h 1.93 v -1.83 z"
+       id="path191-9" />
+    <circle
+       cx="171.2422"
+       cy="128.22"
+       r="1.0650001"
+       id="circle192-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="171.2422"
+       cy="119.92"
+       r="1.0650001"
+       id="circle193-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 188.5522,138.28 v -1.8 h -1.8 v 1.8 z"
+       id="path230-9" />
+    <circle
+       cx="185.1122"
+       cy="137.38"
+       r="0.89999998"
+       id="circle231-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 207.6422,42.43 v 1.7 h 1.7 v -1.7 z"
+       id="path233-7" />
+    <circle
+       cx="208.4922"
+       cy="45.82"
+       r="0.85000002"
+       id="circle234-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4922"
+       cy="48.360001"
+       r="0.85000002"
+       id="circle235-5"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4922"
+       cy="50.900002"
+       r="0.85000002"
+       id="circle236-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4922"
+       cy="53.439999"
+       r="0.85000002"
+       id="circle237-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4922"
+       cy="55.98"
+       r="0.85000002"
+       id="circle238-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4922"
+       cy="58.52"
+       r="0.85000002"
+       id="circle239-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.4922"
+       cy="61.060001"
+       r="0.85000002"
+       id="circle240-3"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 207.6322,119.11 v 1.7 h 1.7 v -1.7 z"
+       id="path256-5" />
+    <circle
+       cx="208.48219"
+       cy="122.5"
+       r="0.85000002"
+       id="circle257-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="208.48219"
+       cy="125.04"
+       r="0.85000002"
+       id="circle258-2"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 163.2022,75.61 v 1.7 h 1.7 v -1.7 z"
+       id="path258-6" />
+    <circle
+       cx="164.0522"
+       cy="79"
+       r="0.85000002"
+       id="circle259-6"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="81.540001"
+       r="0.85000002"
+       id="circle260-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="84.080002"
+       r="0.85000002"
+       id="circle261-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="86.620003"
+       r="0.85000002"
+       id="circle262-4"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="89.160004"
+       r="0.85000002"
+       id="circle263-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="91.699997"
+       r="0.85000002"
+       id="circle264-7"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="94.239998"
+       r="0.85000002"
+       id="circle265-1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <circle
+       cx="164.0522"
+       cy="96.779999"
+       r="0.85000002"
+       id="circle266-8"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
 </svg>
