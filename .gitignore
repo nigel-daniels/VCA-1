@@ -2,4 +2,4 @@
 *.lck
 .DS_Store
 .history/
-
+output/
