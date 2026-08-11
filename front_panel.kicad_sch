@@ -115,6 +115,16 @@
 		)
 		(uuid "0b964c64-83ad-4dc6-80e1-b9e891b52527")
 	)
+	(text "V 1.0"
+		(exclude_from_sim no)
+		(at 185.42 131.572 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5b637242-f5db-4e6f-b586-cf7849f67554")
+	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 24.13 29.21 0)

@@ -4359,6 +4359,16 @@
 		)
 		(uuid "06db460e-1da6-4a28-ba6c-90e46c4661bc")
 	)
+	(text "V 1.0"
+		(exclude_from_sim no)
+		(at 394.462 280.162 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "56ea5b64-1687-441b-b926-5cbf87f545ab")
+	)
 	(text "VCA 2 Output"
 		(exclude_from_sim no)
 		(at 294.132 130.81 0)

@@ -2032,6 +2032,16 @@
 		)
 		(uuid "f21704f1-f114-436b-9786-845c3fb7defb")
 	)
+	(text "V 1.1"
+		(exclude_from_sim no)
+		(at 272.034 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ff04f06b-e127-4640-974e-ad380a54f740")
+	)
 	(junction
 		(at 24.13 81.28)
 		(diameter 0)
