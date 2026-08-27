@@ -1,3 +1,4 @@
 (sym_lib_table
 	(version 7)
+	(lib (name "AS2164") (type "KiCad") (uri "${KIPRJMOD}/as2164/as2164.kicad_sym") (options "") (descr "Quad amp VCA"))
 )

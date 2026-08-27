@@ -672,21 +672,13 @@
         "uuid": "eb1652b6-57da-4a0e-88a4-449907a19840"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R21,U2-3,C7-8,#PWR1,#PWR4,#PWR11-12,#PWR17-18,#PWR20-22,#PWR27-28,#PWR31,D4-5,J5-6,J8-14,RV1-6,H5-12",
     "variants": []
   },
   "sheets": [
     [
       "eb1652b6-57da-4a0e-88a4-449907a19840",
       "VCA 1"
-    ],
-    [
-      "2395376b-3fab-44b6-8171-4759de5684a3",
-      "Controls"
-    ],
-    [
-      "4fae8599-11b2-48cd-b685-7fa32bcc35fc",
-      "Front Panel"
     ]
   ],
   "text_variables": {},
