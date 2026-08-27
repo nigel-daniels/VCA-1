@@ -19,8 +19,8 @@
 			)
 		)
 		(property "Value" "AS2164"
-			(at -3.302 2.032 0)
-			(show_name yes)
+			(at 0 2.032 0)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
