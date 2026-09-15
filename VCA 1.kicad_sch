@@ -7847,7 +7847,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 144.78) (xy 205.74 227.33)
+			(xy 205.74 123.19) (xy 205.74 227.33)
 		)
 		(stroke
 			(width 0)
@@ -7914,16 +7914,6 @@
 			(type default)
 		)
 		(uuid "51d624cd-fe6b-4561-8c8d-fc338eb5d50a")
-	)
-	(wire
-		(pts
-			(xy 209.55 113.03) (xy 210.82 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "521b25dc-d781-40e0-a829-51a16bb6dc34")
 	)
 	(wire
 		(pts
@@ -8117,7 +8107,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 113.03) (xy 201.93 113.03)
+			(xy 199.39 113.03) (xy 210.82 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9154,16 +9144,6 @@
 			(type default)
 		)
 		(uuid "a2a9bb5c-edff-4701-8006-cf3d8faf20e5")
-	)
-	(wire
-		(pts
-			(xy 205.74 123.19) (xy 205.74 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a649f9b7-53d3-4591-a401-9ee832b0b630")
 	)
 	(polyline
 		(pts
@@ -13519,7 +13499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 247.142 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -13718,86 +13698,6 @@
 			(project "VCA 1"
 				(path "/eb1652b6-57da-4a0e-88a4-449907a19840"
 					(reference "#FLG05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 205.74 113.03 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45a0e184-8edd-49c9-9f3c-020f5a8421ee")
-		(property "Reference" "R19"
-			(at 205.74 106.68 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "390R"
-			(at 205.74 109.22 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 205.74 111.252 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 205.74 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6ff44618-0d33-4280-9013-f9af509026ac")
-		)
-		(pin "1"
-			(uuid "bc0f8ec1-69b4-421d-a8e8-863c473ec7d3")
-		)
-		(instances
-			(project "VCA 1"
-				(path "/eb1652b6-57da-4a0e-88a4-449907a19840"
-					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -20863,88 +20763,6 @@
 			(project "VCA 1"
 				(path "/eb1652b6-57da-4a0e-88a4-449907a19840"
 					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 205.74 140.97 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dd943606-ba3d-4d89-9735-a1dc50eb2494")
-		(property "Reference" "R20"
-			(at 208.28 139.6999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "390R"
-			(at 208.28 142.2399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 207.518 140.97 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 205.74 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5f1bacd3-5a35-4cb9-8b20-8de7d1f036a3")
-		)
-		(pin "1"
-			(uuid "a979beef-3400-453b-bbc9-884e5d6fd7fd")
-		)
-		(instances
-			(project "VCA 1"
-				(path "/eb1652b6-57da-4a0e-88a4-449907a19840"
-					(reference "R20")
 					(unit 1)
 				)
 			)
